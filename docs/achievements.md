@@ -32,12 +32,12 @@ certificate
 
 
 <figure markdown="span">
-![Image title](images\PMS-device.jpg){ loading=lazy }
+![Image title](images/PMS-device.jpg){ loading=lazy }
   <figcaption>OxyGenix Device</figcaption>
 </figure>
 
 <figure markdown="span">
-![Image title](images\winner-IEEE.png){ loading=lazy }
+![Image title](images/winner-IEEE.png){ loading=lazy }
   <figcaption>Certificate</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ Organizer:  **IEEE CUET WIE Affinity Group Student Branch**
 
 
 <figure markdown="span">
-![Image title](images\techSpark-stage.jpg){ loading=lazy }
+![Image title](images/techSpark-stage.jpg){ loading=lazy }
   <figcaption>TechSpark 2023</figcaption>
 </figure>
 
@@ -68,13 +68,13 @@ Organizer:  **IEEE CUET STUDENT BRANCH**
 I developed a cost effective and environment friendly Mosquito Repellent model capable of emitting ultrasonic energy of varied frequency that repels or eliminates Mosquitos.The emitting ultrasound of output high frequency(20kHz to 38kHz) do affect the auditory senses of mosquitoes.However,my model do not make any harm hearing ability of human.
 
 <figure markdown="span">
-![Image title](images\PCB-implementation.jpg){ loading=lazy }
+![Image title](images/PCB-implementation.jpg){ loading=lazy }
   <figcaption>Mosquito Repellent</figcaption>
 </figure>
 
 
 <figure markdown="span">
-![Image title](images\PCB-stage.jpg){ loading=lazy }
+![Image title](images/PCB-stage.jpg){ loading=lazy }
   <figcaption>IEEE,CUET</figcaption>
 </figure>
 
