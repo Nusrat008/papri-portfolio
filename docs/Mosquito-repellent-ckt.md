@@ -23,28 +23,28 @@ This model can be made by using the components are 555 timer, buzzer, switch , b
 ### **🔰 Circuit Diagram**
 
 <figure markdown="span">
-![Image title](images\mosquito-circuit.jpg){ loading=lazy }
+![Image title](images/mosquito-circuit.jpg){ loading=lazy }
   <figcaption>Circuit Diagram</figcaption>
 </figure>
 
 ### **🔰 Hardware**
 
 <figure markdown="span">
-![Image title](images\breadboard-implementation.jpg){ loading=lazy }
+![Image title](images/breadboard-implementation.jpg){ loading=lazy }
   <figcaption>Breadboard Implementation</figcaption>
 </figure>
 
 ### **🔰 PCB Design**
 
 <figure markdown="span">
-![Image title](images\pcb-layout.jpg){ loading=lazy }
+![Image title](images/pcb-layout.jpg){ loading=lazy }
   <figcaption>PCB Layout</figcaption>
 </figure>
 
 ### **🔰 PCB Implementaion**
 
 <figure markdown="span">
-![Image title](images\PCB-implementation.jpg){ loading=lazy }
+![Image title](images/PCB-implementation.jpg){ loading=lazy }
   <figcaption>PCB Implementation</figcaption>
 </figure>
 

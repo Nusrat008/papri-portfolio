@@ -4,12 +4,12 @@
 **🏆🏆🏆 CHAMPION Project at Internaltional Student LED-Con 2023, 'IEEE Bangladesh Section located Conference 2023' 🏆🏆🏆**
 
 <figure markdown="span">
-![Image title](images\OxyGenix.jpg){ loading=lazy }
+![Image title](images/OxyGenix.jpg){ loading=lazy }
   <figcaption></figcaption>
 </figure>
  
 <figure markdown="span">
-![Image title](images\PMS-device.jpg){ loading=lazy }
+![Image title](images/PMS-device.jpg){ loading=lazy }
   <figcaption></figcaption>
 </figure>
   
@@ -41,7 +41,7 @@ We have gone to Chittagong Medical College Hostipal to integrate our device with
 We got a fine result with accuracy of measurement more than 90%.The Doctor satisfied with the result.
 
 <figure markdown="span">
-![Image title](images\Device-tested-CMC.jpg){ loading=lazy }
+![Image title](images/Device-tested-CMC.jpg){ loading=lazy }
   <figcaption></figcaption>
 </figure>
 
