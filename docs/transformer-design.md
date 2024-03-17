@@ -23,14 +23,14 @@ I designed a 120 kVA, three-phase, 50 Hz, 11000/415 V, delta/star distribution t
 
 
 <figure markdown="span">
-![Image title](images\auto-cad.png){ loading=lazy }
+![Image title](images/auto-cad.png){ loading=lazy }
   <figcaption>Autocad Designs</figcaption>
 </figure>
 
 ### **Layout of L.V. winding (all dimensions in mm)**
 
 <figure markdown="span">
-![Image title](images\Layout-LV.jpg){ loading=lazy }
+![Image title](images/Layout-LV.jpg){ loading=lazy }
   <figcaption>PCB Implementation</figcaption>
 </figure>
 
@@ -38,26 +38,26 @@ I designed a 120 kVA, three-phase, 50 Hz, 11000/415 V, delta/star distribution t
 
 
 <figure markdown="span">
-![Image title](images\Layout-single-HV.jpg){ loading=lazy }
+![Image title](images/Layout-single-HV.jpg){ loading=lazy }
   <figcaption>Layout of each H.V. coils (all dimensions in mm)</figcaption>
 </figure>
 
 <figure markdown="span">
-![Image title](images\Layout-Full-HV.jpg){ loading=lazy }
+![Image title](images/Layout-Full-HV.jpg){ loading=lazy }
   <figcaption>Layout of H.V. winding (in mm)</figcaption>
 </figure>
 
 ### **Layout of Three phase Distribution Transformer**
 
 <figure markdown="span">
-![Image title](images\Distribution-transformer.jpg){ loading=lazy }
+![Image title](images/Distribution-transformer.jpg){ loading=lazy }
   <figcaption>Layout of Three phase Distribution Transformer (all dimensions in mm)</figcaption>
 </figure>
 
 ### **Tank dimensions**
 
 <figure markdown="span">
-![Image title](images\Tank-dimensions.jpg){ loading=lazy }
+![Image title](images/Tank-dimensions.jpg){ loading=lazy }
   <figcaption>Tank dimensions(in mm)</figcaption>
 </figure>
 
