@@ -10,6 +10,9 @@ Each project has served as a testament to my relentless pursuit of excellence, m
 Guidline for C++ Programming:
 I have been completed the course of ''Udemy'' from beginning to beyond.
 
+
+🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/C-plus-plus-Programming-basic-to-Intermediate)
+
 🔗[CLICk Here for the course](https://drive.google.com/drive/folders/1qdH4Gn2p-Ids-UH5u_4TRlkOUphPqdm6?usp=sharing)
 
 ### **C Programming**
@@ -20,9 +23,11 @@ After starting university, I found my self-directed learning in C programming in
 
 
 
+
+🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/C-programming)
 52 Programming Problem ''Tamim Shahriar Subeen''
 
 🔗[52 Problem form Dimik O J ](https://dimikoj.com/problems)
 
 
-🔗[My solution ]()
+🔗[My solution is HERE](https://github.com/Nusrat008/C-programming/tree/main/52%20Problem%20Solving)
