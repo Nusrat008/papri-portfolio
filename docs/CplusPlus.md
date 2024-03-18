@@ -26,7 +26,7 @@ After starting university, I found my self-directed learning in C programming in
 🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/C-programming)
 52 Programming Problem ''Tamim Shahriar Subeen''
 
-🔗[52 Problem form Dimik O J ](https://dimikoj.com/problems)
+🔗[52 Problem form Dimik OJ ](https://dimikoj.com/problems)
 
 
 🔗[My solution is HERE](https://github.com/Nusrat008/C-programming/tree/main/52%20Problem%20Solving)
