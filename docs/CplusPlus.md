@@ -12,7 +12,6 @@ However, my journey has transcended mere practical application. I have fully imm
 Each project has served as a testament to my relentless pursuit of excellence, marking significant milestones in my learning journey. They have strengthened my expertise in wielding C++ with finesse and precision, empowering me to confront both theoretical concepts and practical challenges with confidence and determination.
 
 
-
 **Guidline for C++ Programming:**
 I have been completted the course of ''Udemy'' from beginning to beyond.
 
@@ -21,12 +20,13 @@ I have been completted the course of ''Udemy'' from beginning to beyond.
 
 🔗[CLICk Here for the course](https://drive.google.com/drive/folders/1qdH4Gn2p-Ids-UH5u_4TRlkOUphPqdm6?usp=sharing)
 
+
+### **C Programming**
+
 <figure markdown="span">
 ![Image title](images/C-logo.png){ loading=lazy }
   <figcaption></figcaption>
 </figure>
-
-### **C Programming**
 
 Motivated by my passion for engineering, I used the three-month gap before starting university to improve my programming skills. Even though there weren't many resources available in Bangla, I stumbled upon Tamim Shariar Subin's C++ book, which I completted eagerly, building a strong foundation in C programming. Then, I solved 52 challenging problems on Dimik O J by Tamim Shariar Subin, sharpening my problem-solving skills independently.
 

@@ -6,6 +6,10 @@
 </figure>
 
 
+
+
+
+
 -matlab - guas seidal method
 -others method
 
