@@ -11,10 +11,9 @@
 
 ### **Origin**
 
-
 <figure markdown="span">
 ![Image title](images/Origin-logo.png){ loading=lazy }
-  <figcaption>MATLAB</figcaption>
+  <figcaption></figcaption>
 </figure>
 
 🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/MATLAB)
