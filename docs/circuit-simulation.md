@@ -1,10 +1,28 @@
 
-working...........loading
+### **Proteus**
 
-what proteus
-why important 
-my learning
-my projects simulation with link and picture
+<figure markdown="span">
+![Image title](images/proteus-logo.png){ loading=lazy }
+  <figcaption>Proteus</figcaption>
+</figure>
+
+🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/MATLAB)
 
 
--ultrasonic
+### **PSIM**
+
+<figure markdown="span">
+![Image title](images/psim-logo.png){ loading=lazy }
+  <figcaption>Proteus</figcaption>
+</figure>
+
+🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/MATLAB)
+
+### **ADS**
+
+<figure markdown="span">
+![Image title](images/ads-logo.jpg){ loading=lazy }
+  <figcaption>Proteus</figcaption>
+</figure>
+
+🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/MATLAB)
