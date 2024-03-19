@@ -7,8 +7,8 @@ Each project has served as a testament to my relentless pursuit of excellence, m
 
 
 
-Guidline for C++ Programming:
-I have been completed the course of ''Udemy'' from beginning to beyond.
+**Guidline for C++ Programming:**
+I have been completted the course of ''Udemy'' from beginning to beyond.
 
 
 🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/C-plus-plus-Programming-basic-to-Intermediate)
