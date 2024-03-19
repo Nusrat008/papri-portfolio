@@ -8,7 +8,4 @@
 🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/MATLAB)
 
 
--matlab - guas seidal method
--others method
-
 
