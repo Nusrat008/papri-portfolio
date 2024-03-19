@@ -13,7 +13,7 @@
 
 <figure markdown="span">
 ![Image title](images/psim-logo.png){ loading=lazy }
-  <figcaption>Proteus</figcaption>
+  <figcaption>PSIM</figcaption>
 </figure>
 
 🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/MATLAB)
@@ -22,7 +22,7 @@
 
 <figure markdown="span">
 ![Image title](images/ads-logo.jpg){ loading=lazy }
-  <figcaption>Proteus</figcaption>
+  <figcaption>Advanced Design System(ADS)</figcaption>
 </figure>
 
 🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/MATLAB)
