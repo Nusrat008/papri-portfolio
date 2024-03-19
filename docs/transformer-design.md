@@ -54,7 +54,7 @@ I designed a 120 kVA, three-phase, 50 Hz, 11000/415 V, delta/star distribution t
   <figcaption>Layout of Three phase Distribution Transformer (all dimensions in mm)</figcaption>
 </figure>
 
-### **Tank dimensions**
+### **⚙️Tank dimensions**
 
 <figure markdown="span">
 ![Image title](images/Tank-dimensions.jpg){ loading=lazy }
