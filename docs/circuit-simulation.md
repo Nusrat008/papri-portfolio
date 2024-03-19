@@ -6,7 +6,7 @@
   <figcaption>Proteus</figcaption>
 </figure>
 
-🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/MATLAB)
+🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/proteus-simulation)
 
 
 ### **PSIM**
