@@ -16,7 +16,7 @@
   <figcaption>Advanced Design System(ADS)</figcaption>
 </figure>
 
-🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/MATLAB)
+🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/ADS-simulation)
 
 
 ### **📌 PSIM**
@@ -26,4 +26,4 @@
   <figcaption>PSIM</figcaption>
 </figure>
 
-🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/MATLAB)
+🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/PSIM-simulation)
