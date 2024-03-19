@@ -20,8 +20,8 @@ nav:
   - My Skills: 
      - Basic Arduino: basic-arduino.md
      - EEE Hardware and Software: 
-        - Numerical Analysis: numerical-matlab.md
         - Electrical Circuit Simulation: circuit-simulation.md
+        - Numerical Analysis: numerical-matlab.md
         - Transformer Design: transformer-design.md
      - Programming Language: CplusPlus.md
   #- Training and Working Experience: training-working.md  
