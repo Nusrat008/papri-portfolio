@@ -11,27 +11,31 @@ I am currently pursuing a Bachelor of Science in Electrical and Electronic Engin
 
 🎯 **Software and Programming Skills:**
 
-  🔹 Programming Language: C, C++, MATLAB, Assembly (MASM), ARDUINO, Python 
+   
+   🔹 Programming Language: C, C++, MATLAB, Assembly (MASM), ARDUINO, Python 
   
    🔗[See details](https://nusrat008.github.io/Portfolio/CplusPlus/)
 
 
-  🔹 Electrical Circuit Simulation: Proteus, Advance Design System (ADS), MATLAB Simulink
+  
+   🔹 Electrical Circuit Simulation: Proteus, Advance Design System (ADS), MATLAB Simulink
 
    🔗[See details](https://nusrat008.github.io/Portfolio/circuit-simulation/)
 
  
-  🔹 Numerical Analysis: MATLAB, Origin
+   
+   🔹 Numerical Analysis: MATLAB, Origin
 
    🔗[See details](https://nusrat008.github.io/Portfolio/numerical-matlab/)
 
 
-  🔹 Microcontroller Programming: ARDUINO, PIC (mikroC PRO)
+  
+   🔹 Microcontroller Programming: ARDUINO, PIC (mikroC PRO)
 
    🔗[See details](https://nusrat008.github.io/Portfolio/basic-arduino/)
 
 
-  🔹 Graphics and Document: LATEX, [AUTOCAD](https://nusrat008.github.io/Portfolio/transformer-design/), Camtasia, KineMaster
+   🔹 Graphics and Document: LATEX, [AUTOCAD](https://nusrat008.github.io/Portfolio/transformer-design/), Camtasia, KineMaster
 
 
 
@@ -41,7 +45,8 @@ I am currently pursuing a Bachelor of Science in Electrical and Electronic Engin
 
  Design Embedded System through Arduino, Atme328P, Esp8266, PIC microcontroller.
 
-🔹 **My Project Works:** 
+
+ 🔹 **My Project Works:** 
 
   🔗[IOT based Health Monitoring System](https://nusrat008.github.io/Portfolio/iot-based-health-monitoring/)
 
@@ -50,9 +55,10 @@ I am currently pursuing a Bachelor of Science in Electrical and Electronic Engin
   🔗[Electronic Mosquito Repellent](https://nusrat008.github.io/Portfolio/Mosquito-repellent-ckt/)
 
 
+
 ### **Achievements**
  
-  🔗[See details](https://nusrat008.github.io/Portfolio/achievements/)
+  🔗[See details here](https://nusrat008.github.io/Portfolio/achievements/)
 
 
 
