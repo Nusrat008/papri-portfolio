@@ -12,27 +12,16 @@ I am currently pursuing a Bachelor of Science in Electrical and Electronic Engin
 🎯 **Software and Programming Skills:**
 
    
-   🔹 Programming Language: C, C++, MATLAB, Assembly (MASM), ARDUINO, Python 
+   🔹 [Programming Language:](https://nusrat008.github.io/Portfolio/CplusPlus/) C, C++, MATLAB, Assembly (MASM), ARDUINO, Python 
   
-   🔗[See details](https://nusrat008.github.io/Portfolio/CplusPlus/)
 
-
-  
-   🔹 Electrical Circuit Simulation: Proteus, Advance Design System (ADS), MATLAB Simulink
-
-   🔗[See details](https://nusrat008.github.io/Portfolio/circuit-simulation/)
-
+   🔹 [Electrical Circuit Simulation:](https://nusrat008.github.io/Portfolio/circuit-simulation/) Proteus, Advance Design System (ADS), MATLAB Simulink
  
    
-   🔹 Numerical Analysis: MATLAB, Origin
-
-   🔗[See details](https://nusrat008.github.io/Portfolio/numerical-matlab/)
-
+   🔹 [Numerical Analysis:](https://nusrat008.github.io/Portfolio/numerical-matlab/) MATLAB, Origin
 
   
-   🔹 Microcontroller Programming: ARDUINO, PIC (mikroC PRO)
-
-   🔗[See details](https://nusrat008.github.io/Portfolio/basic-arduino/)
+   🔹 [Microcontroller Programming:](https://nusrat008.github.io/Portfolio/basic-arduino/) ARDUINO, PIC (mikroC PRO)
 
 
    🔹 Graphics and Document: LATEX, [AUTOCAD](https://nusrat008.github.io/Portfolio/transformer-design/), Camtasia, KineMaster
