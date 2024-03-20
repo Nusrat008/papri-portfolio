@@ -9,7 +9,7 @@ I am currently pursuing a Bachelor of Science in Electrical and Electronic Engin
 
 ### **Technical Skills**
 
-🎯 **Software and Programming Skills:**
+⚙️ **Software and Programming Skills:**
 
    
    🔹 [Programming Language:](https://nusrat008.github.io/Portfolio/CplusPlus/) C, C++, MATLAB, Assembly (MASM), ARDUINO, Python 
@@ -28,7 +28,7 @@ I am currently pursuing a Bachelor of Science in Electrical and Electronic Engin
 
 
 
-🎯 **Hardware Skills:** 
+⚙️ **Hardware Skills:** 
 
  Knowledge of Circuit Theory and Electronics. 
 
@@ -42,8 +42,6 @@ I am currently pursuing a Bachelor of Science in Electrical and Electronic Engin
   🔗[Ultrasonic Distance Measurement](https://nusrat008.github.io/Portfolio/ultrasonic-distance-measurement/)
 
   🔗[Electronic Mosquito Repellent](https://nusrat008.github.io/Portfolio/Mosquito-repellent-ckt/)
-
-
 
 ### **Achievements**
  
