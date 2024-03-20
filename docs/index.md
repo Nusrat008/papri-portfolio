@@ -37,7 +37,7 @@ I am currently pursuing a Bachelor of Science in Electrical and Electronic Engin
 
 🎯 **Hardware Skills:** 
 
- Knowledge of Circuit Theory and Electronics 
+ Knowledge of Circuit Theory and Electronics. 
 
  Design Embedded System through Arduino, Atme328P, Esp8266, PIC microcontroller.
 
