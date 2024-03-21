@@ -58,6 +58,7 @@ Organizer:  **IEEE CUET WIE Affinity Group Student Branch**
   <figcaption>Certificate</figcaption>
 </figure>
 
+
 ### **Runner Up Project in 'Basic Electronic, PCB Designing  & Proteus'**
 
 
