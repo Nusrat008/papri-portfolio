@@ -38,7 +38,7 @@ certificate
 
 <figure markdown="span">
 ![Image title](images/winner-IEEE.png){ loading=lazy }
-  <figcaption>Certificate, Champion,International student LED-Con 2023</figcaption>
+  <figcaption>Certificate | Champion | International student LED-Con 2023</figcaption>
 </figure>
 
 
@@ -55,7 +55,7 @@ Organizer:  **IEEE CUET WIE Affinity Group Student Branch**
 
 <figure markdown="span">
 ![Image title](images/techSpark-certificate.png){ loading=lazy }
-  <figcaption>Certificate,Runner Up,TechSpark2.0</figcaption>
+  <figcaption>Certificate | Runner Up | TechSpark2.0</figcaption>
 </figure>
 
 
@@ -84,7 +84,7 @@ I developed a cost effective and environment friendly Mosquito Repellent model c
 
 <figure markdown="span">
 ![Image title](images/Runner-up-PCB.png){ loading=lazy }
-  <figcaption>Certificate,Runner Up, IEEE CUET STUDENT BRANCH</figcaption>
+  <figcaption>Certificate | Runner Up | IEEE CUET STUDENT BRANCH</figcaption>
 </figure>
 
 
