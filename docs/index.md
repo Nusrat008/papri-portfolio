@@ -3,7 +3,7 @@
 
 ### **Education**
 
-I am currently pursuing a Bachelor of Science in Electrical and Electronic Engineering (EEE) at Chittagong University of Engineering and Technology (CUET).
+I am currently pursuing my Bachelor of Science in Electrical and Electronic Engineering (EEE) at Chittagong University of Engineering and Technology (CUET).
 
    🔗[See details here](https://nusrat008.github.io/Portfolio/Education)
 ### **Career Objective**
