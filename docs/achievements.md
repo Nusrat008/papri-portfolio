@@ -53,7 +53,10 @@ Organizer:  **IEEE CUET WIE Affinity Group Student Branch**
   <figcaption>TechSpark 2023</figcaption>
 </figure>
 
-
+<figure markdown="span">
+![Image title](images/techSpark-certificate.png){ loading=lazy }
+  <figcaption>Certificate</figcaption>
+</figure>
 
 ### **Runner Up Project in 'Basic Electronic, PCB Designing  & Proteus'**
 
