@@ -16,14 +16,16 @@ To gather hands on experience in the field of Engineering, Designing, Assembly &
  </b>  </h3>
 
 - Embedded System
- - System Design with Arduino, ESP
- - Sensors
+  - System Design with Arduino, ESP
+  - Sensors
 - IOT
 - Biomedical Instrumentation
 - Artifical intelligence
 - Machine Learning, Deep leanring
+- Optics & Photonics
 
-### **Technical Skills**
+<h3 style= "text-align: center"> <b> Technical Skills
+ </b>  </h3>
 
 ⚙️ **Software and Programming Skills:**
 

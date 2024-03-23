@@ -31,7 +31,7 @@ I designed a 120 kVA, three-phase, 50 Hz, 11000/415 V, delta/star distribution t
 
 <figure markdown="span">
 ![Image title](images/Layout-LV.jpg){ loading=lazy }
-  <figcaption>PCB Implementation</figcaption>
+  <figcaption>Layout of L.V. Winding</figcaption>
 </figure>
 
 ### **Layout of H.V. winding**
