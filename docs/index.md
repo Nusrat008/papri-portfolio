@@ -7,7 +7,7 @@ I am currently pursuing my Bachelor of Science in Electrical and Electronic Engi
 
 🔗[See details here](https://nusrat008.github.io/Portfolio/Education)
 
-<h3 style= "text-align: center"> <b> ### **Career Objective**
+<h3 style= "text-align: center"> <b> Career Objective
  </b>  </h3>
 
 
@@ -43,7 +43,7 @@ I am currently pursuing my Bachelor of Science in Electrical and Electronic Engi
  Design Embedded System through Arduino, Atme328P, Esp8266, PIC microcontroller.
 
 
- 🛠️ **My Project Works:** 
+**My Project Works:** 
 
   🔗[IOT based Health Monitoring System](https://nusrat008.github.io/Portfolio/iot-based-health-monitoring/)
 
