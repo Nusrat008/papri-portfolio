@@ -19,6 +19,6 @@ Chittagong Govt. Women’s College, Bangladesh, [cgwc.edu.bd](https://cgwc.edu.b
 
  I worked hard to prepare myself to get a chance at the top Engineering Universities in Bangladesh. After completing higher secondary school, I took part in admission tests and got chances at CUET and KUET. I also got a chance at DU and had the opportunity to study engineering there. 
  
- But I chose an Engineering University over DU. I was in confusion about where I should go, CUET or KUET. As both of them are considered top Engineering universities in Bangladesh, and my hometown is near CUET, I decided to go to CUET, EEE after discussing with my family. And my journey through my passionate field starts here at CUET. A long way to go yet.
+ But I chose an Engineering University over DU. I was in confusion about where I should go, CUET or KUET. As both of them are considered top Engineering universities in Bangladesh, and my hometown is near CUET, I decided to go to CUET, EEE after discussing with my family. And my journey through my passionate field starts here at CUET.**A long way to go yet.**
 
 
