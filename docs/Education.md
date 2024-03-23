@@ -10,7 +10,7 @@ Chittagong University of Engineering & Technology (CUET), Chittagong-4349, Bangl
 Chittagong Govt. Women’s College, Bangladesh, [cgwc.edu.bd](https://cgwc.edu.bd/)
 
 
-### **💡 Why I choose EEE, CUET?**
+### **💡 Story behind to Pursue EEE at CUET**
 
 Since childhood, I loved learning math and science, enjoying solving math problems. When I was in 9th grade,I came to know the exciting world of Physics and Math in a bit broader range. From that time, I started to dream of being an engineer. Later, in 12th grade, I got introduced to electricity and electronics. **I found my passion in solving electronics problems and dreamt of studying EEE.**
 
