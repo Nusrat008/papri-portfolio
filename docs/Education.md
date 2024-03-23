@@ -10,7 +10,7 @@ Chittagong University of Engineering & Technology (CUET), Chittagong-4349, Bangl
 Chittagong Govt. Women’s College, Bangladesh, [cgwc.edu.bd](https://cgwc.edu.bd/)
 
 
-### **Why I choose EEE,CUET?**
+### **💡Why I choose EEE,CUET?**
 
 From my childhood, I loved learning math and science. I used to enjoy solving math problems back then.
 
