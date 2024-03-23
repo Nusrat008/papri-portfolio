@@ -53,7 +53,8 @@ To gather hands on experience in the field of Engineering, Designing, Assembly &
  Design Embedded System through Arduino, Atme328P, Esp8266, PIC microcontroller.
 
 
-**My Project Works:** 
+<h3 style= "text-align: center"> <b> My Project Works 
+ </b>  </h3>
 
   🔗[IOT based Health Monitoring System](https://nusrat008.github.io/Portfolio/iot-based-health-monitoring/)
 
@@ -61,7 +62,9 @@ To gather hands on experience in the field of Engineering, Designing, Assembly &
 
   🔗[Electronic Mosquito Repellent](https://nusrat008.github.io/Portfolio/Mosquito-repellent-ckt/)
 
-### **Achievements**
+<h3 style= "text-align: center"> <b> Achievements
+ </b>  </h3>
+
  
   🔗[See details here](https://nusrat008.github.io/Portfolio/achievements/)
 
