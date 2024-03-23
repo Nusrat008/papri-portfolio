@@ -24,7 +24,7 @@ I designed a 120 kVA, three-phase, 50 Hz, 11000/415 V, delta/star distribution t
 
 <figure markdown="span">
 ![Image title](images/auto-cad.png){ loading=lazy }
-  <figcaption>Autocad Designs</figcaption>
+  <figcaption>Autocad Design</figcaption>
 </figure>
 
 ### **Layout of L.V. winding (all dimensions in mm)**
