@@ -10,10 +10,18 @@ I am currently pursuing my Bachelor of Science in Electrical and Electronic Engi
 <h3 style= "text-align: center"> <b> Career Objective
  </b>  </h3>
 
+To gather hands on experience in the field of Engineering, Designing, Assembly & Service. In addition, to reach in the goal of the industry along with personal objectives by means of hard working and devotion.
 
+<h3 style= "text-align: center"> <b> Research Interest
+ </b>  </h3>
 
-
-### **Research Interest**
+- Embedded System
+ - System Design with Arduino, ESP
+ - Sensors
+- IOT
+- Biomedical Instrumentation
+- Artifical intelligence
+- Machine Learning, Deep leanring
 
 ### **Technical Skills**
 
