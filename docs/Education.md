@@ -12,7 +12,7 @@ Chittagong Govt. Women’s College, Bangladesh, [cgwc.edu.bd](https://cgwc.edu.b
 
 ### Why I choose EEE,CUET?
 
-**From my childhood, I loved learning math and science. I used to enjoy solving math problems back then.
+From my childhood, I loved learning math and science. I used to enjoy solving math problems back then.
 
  When I was in 9th grade,I came to know the exciting world of Physics and Math in a bit broader range. From that time, I started to dream of being an engineer. Later, in 12th grade, I got introduced to electricity and electronics. **I found my passion in solving electronics problems and dreamt of studying EEE.**
 
