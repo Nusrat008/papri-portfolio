@@ -3,7 +3,7 @@
 
 <h3 style= "text-align: center"> <b> Education </b>  </h3>
 
-I am currently pursuing my Bachelor of Science in Electrical and Electronic Engineering (EEE) at Chittagong University of Engineering and Technology (CUET).
+Currently, I am pursuing my Bachelor of Science in Electrical and Electronic Engineering (EEE) at Chittagong University of Engineering and Technology (CUET).
 
 🔗[See details here](https://nusrat008.github.io/Portfolio/Education)
 
