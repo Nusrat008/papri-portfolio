@@ -1,12 +1,15 @@
 # Welcome to my portfolio. I am **Nusrat Jahan Papri**, a final year student of EEE, CUET, Bangladesh. 
 
 
-<h3 style= "text-align: center"> Education  </h3>
+<h3 style= "text-align: center"> <b> Education </b>  </h3>
 
 I am currently pursuing my Bachelor of Science in Electrical and Electronic Engineering (EEE) at Chittagong University of Engineering and Technology (CUET).
 
-   🔗[See details here](https://nusrat008.github.io/Portfolio/Education)
-### **Career Objective**
+🔗[See details here](https://nusrat008.github.io/Portfolio/Education)
+
+<h3 style= "text-align: center"> <b> ### **Career Objective**
+ </b>  </h3>
+
 
 
 
