@@ -1,3 +1,8 @@
+<figure markdown="span">
+![Image title](images/TechSpark_presentation.jpg){ loading=lazy }
+  <figcaption>Proteus</figcaption>
+</figure>
+
 # Welcome to my portfolio. I am **Nusrat Jahan Papri**, a final year student of EEE, CUET, Bangladesh. 
 
 
