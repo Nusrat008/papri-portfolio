@@ -17,7 +17,7 @@ Currently, I am pursuing my Bachelor of Science in Electrical and Electronic Eng
 
 To gather hands on experience in the field of Engineering, Designing, Assembly & Service. In addition, to reach in the goal of the industry along with personal objectives by means of hard working and devotion.
 
-<h3 style= "text-align: center"> <b> Research Interest
+<h3 style= "text-align: center"> <b>Area of Research Interest
  </b>  </h3>
 
 - Embedded System
