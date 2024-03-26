@@ -25,10 +25,11 @@ To gather hands on experience in the field of Engineering, Designing, Assembly &
    - System Design with Arduino, ESP
    - Sensors
 - IOT
+- Optics & Photonics
 - Biomedical Instrumentation
 - Artifical intelligence
 - Machine Learning, Deep leanring
-- Optics & Photonics
+- Quantum Computing
 
 <h3 style= "text-align: center"> <b> Technical Skills
  </b>  </h3>
@@ -54,9 +55,9 @@ To gather hands on experience in the field of Engineering, Designing, Assembly &
 
 ⚙️ **Hardware Skills:** 
 
- Knowledge of Circuit Theory and Electronics. 
+- Knowledge of Circuit Theory and Electronics. 
 
- Design Embedded System through Arduino, Atme328P, Esp8266, PIC microcontroller.
+- Designing Embedded System through Arduino, Atme328P, Esp8266, PIC microcontroller.
 
 
 <h3 style= "text-align: center"> <b> My Project Works 
@@ -73,6 +74,12 @@ To gather hands on experience in the field of Engineering, Designing, Assembly &
 
  
   🔗[See details here](https://nusrat008.github.io/Portfolio/achievements/)
+
+<h3 style= "text-align: center"> <b> Course and Certifications
+ </b>  </h3>
+
+ 
+  🔗[See details here](https://nusrat008.github.io/Portfolio/course-and-certification/)
 
 
 
