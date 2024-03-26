@@ -27,8 +27,7 @@ To gather hands on experience in the field of Engineering, Designing, Assembly &
 - IOT
 - Optics & Photonics
 - Biomedical Instrumentation
-- Artifical intelligence
-- Machine Learning, Deep leanring
+- Artifical intelligence, Machine Learning, Deep learning
 - Quantum Computing
 
 <h3 style= "text-align: center"> <b> Technical Skills
