@@ -59,7 +59,7 @@ To gather hands on experience in the field of Engineering, Designing, Assembly &
 - Designing Embedded System through Arduino, Atme328P, Esp8266, PIC microcontroller.
 
 
-<h3 style= "text-align: center"> <b> My Project Works 
+<h3 style= "text-align: center"> <b> Project Works 
  </b>  </h3>
 
   🔗[IOT based Health Monitoring System](https://nusrat008.github.io/Portfolio/iot-based-health-monitoring/)
