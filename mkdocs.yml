@@ -101,8 +101,8 @@ extra:
     #   link: https://github.com/ramiz-moktader/
     # - icon: fontawesome/brands/linkedin
     #   link: https://github.com/ramiz-moktader/
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/groups/902693884377077 
+    - icon: fontawesome/brands/linkedin
+      link: www.linkedin.com/in/nusrat-papri 
 
 extra_javascript:
   - javascripts/mathjax.js

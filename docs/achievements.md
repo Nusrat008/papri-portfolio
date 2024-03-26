@@ -42,7 +42,7 @@ certificate
 </figure>
 
 
-### **Runner Up  in TechSpark 2023**
+### **🏅 Runner Up  in TechSpark 2023**
 
 
 Organizer:  **IEEE CUET WIE Affinity Group Student Branch**
@@ -59,7 +59,7 @@ Organizer:  **IEEE CUET WIE Affinity Group Student Branch**
 </figure>
 
 
-### **Runner Up Project in 'Basic Electronic, PCB Designing  & Proteus'**
+### **🏅 Runner Up Project in 'Basic Electronic, PCB Designing  & Proteus'**
 
 
 Organizer:  **IEEE CUET STUDENT BRANCH**
