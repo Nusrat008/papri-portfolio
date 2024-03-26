@@ -16,6 +16,8 @@ Currently, I am pursuing my Bachelor of Science in Electrical and Electronic Eng
 <h3 style= "text-align: center"> <b> Career Objective
  </b>  </h3>
 
+Motivated by a desire to contribute meaningfully to the advancement of EEE, I aspire to achieve impactful research outcomes through unwavering dedication and a commitment to lifelong learning. In the near term, I seek hands-on experience in EEE design, assembly, and service to solidify my understanding of practical applications and bridge the gap between theory and real-world implementation.
+
 To gather hands on experience in the field of Engineering, Designing, Assembly & Service. In addition, to reach in the goal of the industry along with personal objectives by means of hard working and devotion.
 
 <h3 style= "text-align: center"> <b>Area of Research Interest
