@@ -1,5 +1,5 @@
 
-### **🏆CHAMPION    Project in the ''Undergraduate Project Video Contest'' at ''Internaltional Student LED-Con 2023''**
+### **🏆 CHAMPION    Project in the ''Undergraduate Project Video Contest'' at ''Internaltional Student LED-Con 2023''**
  
 
 **Organizer: IEEE Bangladesh Section** 
