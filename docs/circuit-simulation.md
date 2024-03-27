@@ -6,7 +6,7 @@
   <figcaption>Proteus</figcaption>
 </figure>
 
-
+I have designed and implemented a diverse range of circuits, starting from fundamental logic gates to complex systems. These circuits integrate sensors, power supplies, and Arduino-based microcontroller applications.
 
 🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/proteus-simulation)
 

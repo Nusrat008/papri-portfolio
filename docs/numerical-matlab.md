@@ -18,6 +18,7 @@ I have built a strong MATLAB foundation through numerical analysis methods, data
   <figcaption></figcaption>
 </figure>
 
+I used Origin, a graphing and analysis software, to produce a range of plots for my sessional courses. I generated visualizations like scatter plots and 3D surface plots to understand trends and relationships within my data.
 
 
 🔗[CLICk Here for MY GitHub Repositories](https://github.com/Nusrat008/Numerical-Analysis-by-Origin)
