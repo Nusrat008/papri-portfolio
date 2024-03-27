@@ -72,13 +72,18 @@ I aspire to achieve impactful research outcomes through unwavering dedication.I 
 <h3 style= "text-align: center"> <b> Achievements
  </b>  </h3>
 
-- 
+- 🏆 CHAMPION    Project in the ''Undergraduate Project Video Contest'' at ''Internaltional Student LED-Con 2023''
+- 🏅 Runner Up  in TechSpark 2023
+- 🏅 Runner Up Project in 'Basic Electronic, PCB Designing  & Proteus'
  
   🔗[See details here](https://nusrat008.github.io/Portfolio/achievements/)
+
 
 <h3 style= "text-align: center"> <b> Course and Certifications
  </b>  </h3>
 
+- Course on 'Engineering Maths and Their Physics & Applications'
+- **Matlab Workshop**
  
   🔗[See details here](https://nusrat008.github.io/Portfolio/course-and-certification/)
 
