@@ -10,7 +10,7 @@
  
 <figure markdown="span">
 ![Image title](images/PMS-device.jpg){ loading=lazy }
-  <figcaption></figcaption>
+  <figcaption>OxyGenix Device</figcaption>
 </figure>
   
 
