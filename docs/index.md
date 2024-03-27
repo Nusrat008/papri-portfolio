@@ -26,10 +26,11 @@ I aspire to achieve impactful research outcomes through unwavering dedication.I 
    - System Design with Arduino, ESP
    - Sensors
 - IOT
+- Quantum Computing
 - Optics & Photonics
 - Biomedical Instrumentation
 - Artificial intelligence, Machine Learning, Deep learning
-- Quantum Computing
+
 
 <h3 style= "text-align: center"> <b> Technical Skills
  </b>  </h3>
@@ -40,16 +41,16 @@ I aspire to achieve impactful research outcomes through unwavering dedication.I 
    🔹 [Programming Language(See Details):](https://nusrat008.github.io/Portfolio/CplusPlus/) C, C++, MATLAB, Assembly (MASM), ARDUINO, Python 
   
 
-   🔹 [Electrical Circuit Simulation:](https://nusrat008.github.io/Portfolio/circuit-simulation/) Proteus, Advance Design System (ADS), MATLAB Simulink
+   🔹 [Electrical Circuit Simulation(See Details):](https://nusrat008.github.io/Portfolio/circuit-simulation/) Proteus, Advance Design System (ADS), MATLAB Simulink
  
    
-   🔹 [Numerical Analysis:](https://nusrat008.github.io/Portfolio/numerical-matlab/) MATLAB, Origin
+   🔹 [Numerical Analysis(See Details):](https://nusrat008.github.io/Portfolio/numerical-matlab/) MATLAB, Origin
 
   
-   🔹 [Microcontroller Programming:](https://nusrat008.github.io/Portfolio/basic-arduino/) [ARDUINO](https://nusrat008.github.io/Portfolio/basic-arduino/), PIC (mikroC PRO)
+   🔹 [Microcontroller Programming(See Details):](https://nusrat008.github.io/Portfolio/basic-arduino/) [ARDUINO](https://nusrat008.github.io/Portfolio/basic-arduino/), PIC (mikroC PRO)
 
 
-   🔹 Graphics and Document: LATEX, [AUTOCAD](https://nusrat008.github.io/Portfolio/transformer-design/), Camtasia, KineMaster
+   🔹 Graphics and Document: LATEX, [AUTOCAD(CLICK)](https://nusrat008.github.io/Portfolio/transformer-design/), Camtasia, KineMaster
 
 
 
@@ -82,7 +83,7 @@ I aspire to achieve impactful research outcomes through unwavering dedication.I 
 <h3 style= "text-align: center"> <b> Course and Certifications
  </b>  </h3>
 
-- Course on 'Engineering Maths and Their Physics & Applications'
+- Course on **'Engineering Maths and their Physics & Applications'**
 - **Matlab Workshop**
  
   🔗[See details here](https://nusrat008.github.io/Portfolio/course-and-certification/)
