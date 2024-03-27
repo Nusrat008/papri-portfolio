@@ -16,7 +16,7 @@ Currently, I am pursuing my Bachelor of Science in Electrical and Electronic Eng
 <h3 style= "text-align: center"> <b> Career Objective
  </b>  </h3>
 
-Motivated by a desire to contribute meaningfully to the advancement of EEE, I aspire to achieve impactful research outcomes through unwavering dedication and a commitment to lifelong learning. In the near term, I seek hands-on experience in EEE design, assembly, and service to solidify my understanding of practical applications and bridge the gap between theory and real-world implementation.
+I aspire to achieve impactful research outcomes through unwavering dedication and a commitment to lifelong learning.I seek hands-on experience in EEE design, assembly, and service to solidify my understanding of practical applications and bridge the gap between theory and real-world implementation.
 
 
 <h3 style= "text-align: center"> <b>Area of Research Interest
@@ -37,7 +37,7 @@ Motivated by a desire to contribute meaningfully to the advancement of EEE, I as
 ⚙️ **Software and Programming Skills:**
 
    
-   🔹 [Programming Language:](https://nusrat008.github.io/Portfolio/CplusPlus/) C, C++, MATLAB, Assembly (MASM), ARDUINO, Python 
+   🔹 [Programming Language(See Details):](https://nusrat008.github.io/Portfolio/CplusPlus/) C, C++, MATLAB, Assembly (MASM), ARDUINO, Python 
   
 
    🔹 [Electrical Circuit Simulation:](https://nusrat008.github.io/Portfolio/circuit-simulation/) Proteus, Advance Design System (ADS), MATLAB Simulink
@@ -46,7 +46,7 @@ Motivated by a desire to contribute meaningfully to the advancement of EEE, I as
    🔹 [Numerical Analysis:](https://nusrat008.github.io/Portfolio/numerical-matlab/) MATLAB, Origin
 
   
-   🔹 [Microcontroller Programming:](https://nusrat008.github.io/Portfolio/basic-arduino/) ARDUINO, PIC (mikroC PRO)
+   🔹 [Microcontroller Programming:](https://nusrat008.github.io/Portfolio/basic-arduino/) [ARDUINO](https://nusrat008.github.io/Portfolio/basic-arduino/), PIC (mikroC PRO)
 
 
    🔹 Graphics and Document: LATEX, [AUTOCAD](https://nusrat008.github.io/Portfolio/transformer-design/), Camtasia, KineMaster
@@ -72,6 +72,7 @@ Motivated by a desire to contribute meaningfully to the advancement of EEE, I as
 <h3 style= "text-align: center"> <b> Achievements
  </b>  </h3>
 
+- 
  
   🔗[See details here](https://nusrat008.github.io/Portfolio/achievements/)
 
