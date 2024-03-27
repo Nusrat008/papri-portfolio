@@ -102,7 +102,7 @@ extra:
     # - icon: fontawesome/brands/linkedin
     #   link: https://github.com/ramiz-moktader/
     - icon: fontawesome/brands/linkedin
-      link: www.linkedin.com/in/nusrat-papri 
+      link: https://www.linkedin.com/in/nusrat-papri 
 
 extra_javascript:
   - javascripts/mathjax.js
