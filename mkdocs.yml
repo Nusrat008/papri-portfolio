@@ -45,9 +45,7 @@ site_description: >-
 
 # Configuration
 theme:
-  name: material
-  icon:                                                     
-    logo: <figure markdown="span">
+  <figure markdown="span">
           ![Image title](images/NP-logo.png){ loading=lazy }
             <figcaption></figcaption>
           </figure>
