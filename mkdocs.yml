@@ -47,7 +47,7 @@ site_description: >-
 theme:
 name: material
   icon:                                                     
-    logo: "img/NP-logo.ico"
+    # logo: img/NP-logo.ico
   features:
     
     - content.code.copy
