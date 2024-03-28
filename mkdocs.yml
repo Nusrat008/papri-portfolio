@@ -45,10 +45,12 @@ site_description: >-
 
 # Configuration
 theme:
-  <figure markdown="span">
-  ![Image title](images/NP-logo.png){ loading=lazy }
-    <figcaption></figcaption>
-  </figure>
+name: material
+  icon:                                                     
+    logo: <figure markdown="span">
+          ![Image title](images/NP-logo.png){ loading=lazy }
+            <figcaption></figcaption>
+          </figure>
   features:
     
     - content.code.copy
