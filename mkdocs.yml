@@ -47,7 +47,7 @@ site_description: >-
 theme:
   name: material
   icon:                                                     
-      logo: Nusrat008/portfolio/docs/images/NP-logo.png
+      logo: images/NP-logo.png
   features:
     
     - content.code.copy
