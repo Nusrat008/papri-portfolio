@@ -46,7 +46,7 @@ site_description: >-
 # Configuration
 theme:
   name: material
-  icon:                                                     
+  #icon:                                                     
     #  logo: material/test-tube
     <figure markdown="span">
     ![Image title](images/NP-logo.png){ loading=lazy }
