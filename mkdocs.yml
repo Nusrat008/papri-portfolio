@@ -46,9 +46,9 @@ site_description: >-
 # Configuration
 theme:
   <figure markdown="span">
-          ![Image title](images/NP-logo.png){ loading=lazy }
-            <figcaption></figcaption>
-          </figure>
+  ![Image title](images/NP-logo.png){ loading=lazy }
+    <figcaption></figcaption>
+  </figure>
   features:
     
     - content.code.copy
