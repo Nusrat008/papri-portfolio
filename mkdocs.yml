@@ -47,10 +47,7 @@ site_description: >-
 theme:
 name: material
   icon:                                                     
-    logo: <figure markdown="span">
-          ![Image title](images/NP-logo.png){ loading=lazy }
-            <figcaption></figcaption>
-          </figure>
+    logo: "img/NP-logo.ico"
   features:
     
     - content.code.copy
