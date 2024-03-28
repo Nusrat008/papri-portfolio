@@ -46,12 +46,11 @@ site_description: >-
 # Configuration
 theme:
   name: material
-  #icon:                                                     
-    #  logo: material/test-tube
-    <figure markdown="span">
-    ![Image title](images/NP-logo.png){ loading=lazy }
-      <figcaption></figcaption>
-    </figure>
+  icon:                                                     
+    logo: <figure markdown="span">
+          ![Image title](images/NP-logo.png){ loading=lazy }
+            <figcaption></figcaption>
+          </figure>
   features:
     
     - content.code.copy
