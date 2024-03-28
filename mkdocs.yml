@@ -48,10 +48,10 @@ theme:
   name: material
   icon:                                                     
     #  logo: material/test-tube
-<figure markdown="span">
-![Image title](images/NP-logo.png){ loading=lazy }
-  <figcaption></figcaption>
-</figure>
+    <figure markdown="span">
+    ![Image title](images/NP-logo.png){ loading=lazy }
+      <figcaption></figcaption>
+    </figure>
   features:
     
     - content.code.copy
