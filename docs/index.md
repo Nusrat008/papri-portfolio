@@ -64,7 +64,7 @@ I aspire to achieve impactful research outcomes through unwavering dedication.I 
 <h3 style= "text-align: center"> <b> Project Works 
  </b>  </h3>
 
-  🔗[IOT based Health Monitoring System](https://nusrat008.github.io/Portfolio/iot-based-health-monitoring/)
+  🔗[IOT based - Low cost Health Monitoring System](https://nusrat008.github.io/Portfolio/iot-based-health-monitoring/)
 
   🔗[Ultrasonic Distance Measurement](https://nusrat008.github.io/Portfolio/ultrasonic-distance-measurement/)
 
