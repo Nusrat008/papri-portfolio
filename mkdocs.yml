@@ -47,7 +47,7 @@ site_description: >-
 theme:
   name: material
   icon: 
-    logo: img/np-logo
+    logo: icons/img/np-logo
 
   features:
     
