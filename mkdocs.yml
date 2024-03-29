@@ -48,7 +48,7 @@ theme:
   name: material
   icon: 
     logo: img/np-logo
-  logo: img/np-logo.svg
+  logo: img/np-logo.png
 
 
   features:
