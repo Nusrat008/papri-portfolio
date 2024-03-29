@@ -46,6 +46,7 @@ site_description: >-
 # Configuration
 theme:
   name: material
+  
   logo: img/np-logo.png
   # logo: img/np-logo.png
 
