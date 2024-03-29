@@ -46,7 +46,7 @@ site_description: >-
 # Configuration
 theme:
   name: material
-  favicon: images/NP-logo.png       
+  favicon: img/NP-logo.ico       
   logo: images/NP-logo.png
 
   features:
