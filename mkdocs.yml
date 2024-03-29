@@ -46,8 +46,8 @@ site_description: >-
 # Configuration
 theme:
   name: material
-    icon: 
-      logo: img/NP-logo.ico
+  icon: 
+    logo: img/NP-logo.ico
 
   features:
     
