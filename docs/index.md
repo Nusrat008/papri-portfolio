@@ -1,5 +1,5 @@
 <figure markdown="span">
-![Image title](images/TechSpark_presentation.jpg){ loading=lazy }
+![Image title](images/me_sparsso.jpg){ loading=lazy }
   <figcaption></figcaption>
 </figure>
 
