@@ -25,9 +25,7 @@ I aspire to achieve impactful research outcomes through unwavering dedication.I 
 - Optics & Photonics
 - Biomedical Instrumentation
 - Artificial intelligence, Machine Learning, Deep learning
-- Embedded System
-   - System Design with Arduino, ESP
-   - Sensors
+- Embedded System: System Design with Arduino, ESP & Sensors
 - IOT
 - Quantum Computing
 
