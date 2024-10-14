@@ -22,14 +22,14 @@ I aspire to achieve impactful research outcomes through unwavering dedication.I 
 <h3 style= "text-align: center"> <b>Area of Research Interest
  </b>  </h3>
 
+- Optics & Photonics
+- Biomedical Instrumentation
+- Artificial intelligence, Machine Learning, Deep learning
 - Embedded System
    - System Design with Arduino, ESP
    - Sensors
 - IOT
 - Quantum Computing
-- Optics & Photonics
-- Biomedical Instrumentation
-- Artificial intelligence, Machine Learning, Deep learning
 
 
 <h3 style= "text-align: center"> <b> Technical Skills
